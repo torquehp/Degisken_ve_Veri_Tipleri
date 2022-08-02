@@ -1,0 +1,5 @@
+C:\Users\DREAMLAND\Desktop\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\obj\Debug\net6.0\Degisken_ve_Veri_Tipleri.csproj.AssemblyReference.cache
+C:\Users\DREAMLAND\Desktop\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\obj\Debug\net6.0\Degisken_ve_Veri_Tipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DREAMLAND\Desktop\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\obj\Debug\net6.0\Degisken_ve_Veri_Tipleri.AssemblyInfoInputs.cache
+C:\Users\DREAMLAND\Desktop\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\obj\Debug\net6.0\Degisken_ve_Veri_Tipleri.AssemblyInfo.cs
+C:\Users\DREAMLAND\Desktop\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\obj\Debug\net6.0\Degisken_ve_Veri_Tipleri.csproj.CoreCompileInputs.cache
